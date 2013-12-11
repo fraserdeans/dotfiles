@@ -12,3 +12,7 @@ alias gco="git checkout"
 alias code="cd ~/code"
 alias shutl="cd ~/code/shutl"
 alias admin="cd ~/code/shutl/admin_portal"
+alias gb="git branch"
+
+### Added by the Heroku Toolbelt
+export PATH="/usr/local/heroku/bin:$PATH"
