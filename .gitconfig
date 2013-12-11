@@ -25,3 +25,6 @@ excludesfile = /opt/boxen/config/git/gitignore
  added = yellow
  changed = green
  untracked = cyan
+
+[hub]
+protocol = https
