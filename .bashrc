@@ -15,4 +15,4 @@ alias admin="cd ~/code/shutl/admin_portal"
 alias gb="git branch"
 
 ### Added by the Heroku Toolbelt
-export PATH="/usr/local/heroku/bin:$PATH"
+export PATH="/usr/local/heroku/bin:/usr/local/bin/npm:$PATH"
