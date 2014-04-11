@@ -4,6 +4,8 @@ helper = /opt/boxen/bin/boxen-git-credential
 [core]
 excludesfile = /opt/boxen/config/git/gitignore
 
+[alias]
+  lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
 
 [user]
  email = fraser@shutl.com

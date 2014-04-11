@@ -1,5 +1,5 @@
 alias gs="git status"
-alias rs="rails server"
+alias rs="be rails server"
 alias ga="git add"
 alias gc="git commit -m"
 alias gpo="git push origin"
@@ -10,8 +10,8 @@ alias gpl="git pull origin"
 alias gl="git log"
 alias gco="git checkout"
 alias code="cd ~/code"
-alias shutl="cd ~/code/shutl"
-alias admin="cd ~/code/shutl/admin_portal"
+alias shutl="cd ~/Developer/shutl"
+alias admin="cd ~/Developer/shutl/admin_portal"
 alias gb="git branch"
 
 ### Added by the Heroku Toolbelt
