@@ -1,9 +1,3 @@
-if [ -f /opt/boxen/env.sh ] ; then
-  source /opt/boxen/env.sh
-else
-  eval "$(rbenv init -)"
-fi
-
 source ~/.bashrc
 
 # If not running interactively, don't do anything
