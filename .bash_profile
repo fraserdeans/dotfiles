@@ -1,3 +1,5 @@
+eval "$(rbenv init -)"
+
 source ~/.bashrc
 
 # If not running interactively, don't do anything
