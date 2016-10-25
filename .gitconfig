@@ -1,15 +1,6 @@
-[credential]
-helper = /opt/boxen/bin/boxen-git-credential
-
-[core]
-excludesfile = /opt/boxen/config/git/gitignore
-
 [alias]
   lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
 
-[user]
- email = fraser@shutl.com
- name = Fraser
 [color]
  branch = auto
  diff = auto
@@ -30,3 +21,6 @@ excludesfile = /opt/boxen/config/git/gitignore
 
 [hub]
 protocol = https
+[user]
+	name = fraserdeans
+	email = fraser@fraserdeans.com
